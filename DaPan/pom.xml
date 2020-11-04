@@ -22,5 +22,6 @@
   </dependencies>
   <build>
     <finalName>DaPan</finalName>
+    <finalName>xiugaiguo</finalName>
   </build>
 </project>
